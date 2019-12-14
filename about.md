@@ -13,7 +13,8 @@ sitemap:
 
 Mi nombre es Khiabet Lasso, vivo en la ciudad de Guayaquil, Ecuador.
 Soy estudiante de  Primer Semestre en la Universidad de Guayaquil.
-Este es mi Blog Educativo. En el cual  doy a conocer sobre temas aprendidos en la clase de Introducción a Ingeniería en Software. Pienso que lo plasmado en este blog pueda servirle a alguien más.
+Este es mi Blog Educativo. En el cual  doy a conocer sobre temas aprendidos en la clase de Introducción a Ingeniería en Software. 
+Pienso que lo plasmado en este blog pueda servirle a alguien más.
 Agradezco de antemano su visita, el tiempo dedicado a la lectura de mis artículos y los comentarios que me haga llegar.
 Espero algo de aquí le sea útil.
 
