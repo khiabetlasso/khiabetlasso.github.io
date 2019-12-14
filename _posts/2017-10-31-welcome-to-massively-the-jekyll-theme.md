@@ -2,7 +2,7 @@
 layout: post
 title:  "Introducción a Software!"
 date:   2017-10-31
-excerpt: "Huge thanks to HTML5 UP for making this awesome template! Let's see what it can do"
+excerpt: "Resumen de las unidades vistas en la clase de Introducción a Software"
 image: "/images/ing.jpg"
 ---
 
